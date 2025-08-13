@@ -1,5 +1,5 @@
-# WaveX
-Official implementation of WaveX
+# Stop-and-go wave super-resolution reconstruction via iterative refinement
+Official implementation of our research on _Stop-and-go wave super-resolution reconstruction via iterative refinement_.
 
 ```
 @article{ji2024stop,
