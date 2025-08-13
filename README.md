@@ -1,5 +1,5 @@
-# Stop-and-go wave super-resolution reconstruction via iterative refinement
-Official implementation of our research on _Stop-and-go wave super-resolution reconstruction via iterative refinement_.
+# WaveX
+Official implementation of our research on stop-and-go wave super-resolution reconstruction via iterative refinement.
 
 ```
 @article{ji2024stop,
@@ -9,3 +9,8 @@ Official implementation of our research on _Stop-and-go wave super-resolution re
   year={2024}
 }
 ```
+
+## Acknowledgement
+We are benefiting from the following Github projects:
+- https://github.com/aditya-nutakki/SR3
+- https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
