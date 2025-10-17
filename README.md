@@ -2,7 +2,8 @@
 Official implementation of our research on stop-and-go wave super-resolution reconstruction via iterative refinement.
 
 2025-10-17
-Note: This release includes only the code for the conditional diffusion model presented in the paper. Additional code, tools, and tutorials are coming soon, with a major update planned around Thanksgiving. Thank you for your interest and support!
+
+**Note**: This release includes only the code for the conditional diffusion model presented in the paper. Additional code, tools, and tutorials are coming soon, with a major update planned around Thanksgiving. Thank you for your interest and support!
 ```
 @article{ji2025wavex,
 title = {Stop-and-go wave super-resolution reconstruction via iterative refinement},
